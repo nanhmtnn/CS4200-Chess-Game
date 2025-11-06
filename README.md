@@ -26,10 +26,7 @@ chess_ml_app/
 │   ├── chess_eval_model.h5           # Trained TensorFlow model
 │   ├── eval_scaler_mean.npy
 │   └── eval_scaler_std.npy
-├── ml_training/
-│   └── (optional scripts or notebooks)
-└── src/
-    └── (game and UI logic)
+Chess_Game_ML.ipynb                   
 ```
 ## Installation and Setup
 You can run this project on Google Colab by using merely the Chess_Game_ML.ipynb file.
