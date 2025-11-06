@@ -33,5 +33,11 @@ You can run this project on Google Colab by using merely the Chess_Game_ML.ipynb
 
 ## UI
 
+Before clicking Start
+![image alt](https://github.com/nanhmtnn/CS4200-Chess-Game/blob/ddbb78961531de67299c1cde3a41c2c41276673d/before_start.png)
+
 Game starts
 ![image alt](https://github.com/nanhmtnn/CS4200-Chess-Game/blob/1b55a30bdf8ad2a97b6cf2137fb3c478582bc1e6/start.png)
+
+The AI wins
+![image alt](https://github.com/nanhmtnn/CS4200-Chess-Game/blob/ddbb78961531de67299c1cde3a41c2c41276673d/win.png)
