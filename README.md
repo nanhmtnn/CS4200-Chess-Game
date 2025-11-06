@@ -30,4 +30,8 @@ Chess_Game_ML.ipynb
 ```
 ## Installation and Setup
 You can run this project on Google Colab by using merely the Chess_Game_ML.ipynb file.
+
+## UI
+
+Game starts
 ![image alt](https://github.com/nanhmtnn/CS4200-Chess-Game/blob/1b55a30bdf8ad2a97b6cf2137fb3c478582bc1e6/start.png)
