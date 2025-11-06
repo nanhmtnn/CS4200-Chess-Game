@@ -1,6 +1,7 @@
 # ♟️ Chess Game using Machine Learning
 
 This project combines the strategy of chess with the power of **Machine Learning** to build a chess position evaluation system. The model learns from a dataset of chess positions and their corresponding evaluations, allowing it to predict the strength of a given board state. It serves as a foundation for developing intelligent chess agents capable of decision-making.
+Dataset URL: https://www.kaggle.com/datasets/ronakbadhe/chess-evaluations
 
 ---
 
