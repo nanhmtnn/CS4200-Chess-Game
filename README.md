@@ -31,6 +31,8 @@ Chess_Game_ML.ipynb
 ## Installation and Setup
 You can run this project on Google Colab by using merely the Chess_Game_ML.ipynb file.
 
+---
+
 ## UI
 
 Before clicking Start
